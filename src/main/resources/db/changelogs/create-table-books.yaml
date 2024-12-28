@@ -1,0 +1,27 @@
+databaseChangeLog:
+  - changeSet:
+      id: 2024-12-26-20-40-create-table-books
+      author: s.a.chernikova
+      changes:
+        - createTable:
+            tableName: books
+            remarks:
+            columns:
+              - column:
+                  constraints:
+                    nullable: false
+                    primaryKey: true
+                    primaryKeyName: book_pk
+                  name: book_id
+                  type: uuid
+                  remarks: Books PK
+              - column:
+                  constraints:
+                    nullable: false
+                  name: book_title
+                  type: varchar(100)
+                  remarks: Books title
+              - column:
+                  name: book_author
+                  type: varchar(100)
+                  remarks: Books author

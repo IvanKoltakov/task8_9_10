@@ -1,0 +1,88 @@
+DELETE http://localhost:8080/cars/f81b5577-34a7-45e1-a90f-5278b4a9ac6b
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-13T223442.404.json
+
+###
+
+DELETE http://localhost:8080/cars/f81b5577-34a7-45e1-a90f-5278b4a9ac6b
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-12T200942.500.json
+
+###
+
+DELETE http://localhost:8080/cars/f81b5577-34a7-45e1-a90f-5278b4a9ac6b
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-12T200803.500.json
+
+###
+
+DELETE http://localhost:8080/cars/4b5f6b7a-1e8e-4b89-90fd-e3b7fd0229a3
+Content-Length: 3
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+ADD
+
+<> 2024-12-12T200720.500.json
+
+###
+
+GET http://localhost:8080/cars
+{:
+    "car_brand": "Toyota",
+    "description": "Седан, белый цвет"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-12T194622.400.html
+
+###
+
+GET http://localhost:8080/cars
+{:
+    "car_brand": "Toyota",
+    "description": "Седан, белый цвет"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-12T194534.400.html
+
+###
+
+GET http://localhost:8080/cars
+{:
+    "car_brand": "Toyota",
+    "description": "Седан, белый цвет"
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-12T194528.400.html
+
+###
+
+DELETE http://localhost:8080/cars/4b5f6b7a-1e8e-4b89-90fd-e3b7fd0229a3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-12-12T194224.500.json
+
+###
+
